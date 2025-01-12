@@ -1,8 +1,10 @@
-## Hi there 👋
+## 빛은 아름다워! ✨
 
-<!--
-**Antler9000/Antler9000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Antler9000의 프로필에 오신 것을 환영합니다
+- 🌱 현재 깃, 깃허브의 기초를 익히고 있습니다. 이후에 겨울 방학 내로 CMake, 알고리즘, 선형대수학, 컴파일러의 기초와 관련된 레포지토리를 작성할 계획입니다. 
+- 🌞 앞으로 다루고 싶은 주요 주제는 광원효과(그래픽스)이고, 보조 주제는 패턴인식(컴파일러, 인공지능)입니다.
+- 📫 조용히 연락을 보내고 싶다면 프로필에 공개된 이메일로 메일을 보내시면 됩니다. 답신을 드릴 경우 송신으로부터 일주일 내로 회신 드리겠습니다.
+<--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
